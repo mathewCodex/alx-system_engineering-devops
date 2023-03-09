@@ -26,4 +26,7 @@ Other users: all the permissions
 
 * 9-John Doe : A script that set the mode tyo hello.
 
-* 10-Look at the mirror : A script that sets the mode of the file hello the same as olleh’s mode.  
+* 10-Look at the mirror : A script that sets the mode of the file hello the same as olleh’s mode.
+
+* 11- :  adds execute permission to all subdirectories of the current directory
+  
