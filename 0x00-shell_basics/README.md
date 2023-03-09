@@ -39,4 +39,6 @@ And hidden files (starting with .)
 
 * 15-Lets' Moves : A script that moves only files with uppercase letter.
 
-* 16-101-clean_emacs : A script that deletes all files in the current working directory that end with the character ~.
+* 16-101-clean_emacs : A script that delete al file with ~.
+
+* 17-102-tree : A script That that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
