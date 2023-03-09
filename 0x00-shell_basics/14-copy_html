@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -u --progress --exclude='*' --include='*html' . ../
+rsync -u --progress --exclude='*' --include='*.html' . ../
