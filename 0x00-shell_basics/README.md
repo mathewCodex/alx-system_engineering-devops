@@ -39,10 +39,6 @@ And hidden files (starting with .)
 
 * 15-Lets' Moves : A script that moves only files with uppercase letter.
 
-* 16-101-clean_emacs : A script that deletes all files in the current working directory that end with the character ~.
+* 16-101-clean_emacs : A 
 
-* 17-102-tree : welcome folder
-
-* 18-1030commas : A file that list all the command seperated with commas
-
-* 19 - school.mgc : A magic File 
+* 19-school.mgc : A magic file 
