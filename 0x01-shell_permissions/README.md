@@ -12,4 +12,6 @@
 
 * 5-4-empty : A script that create an empty file called hello.
 
-* 6-5-execute : A file that excute  
+* 6-5-execute : A file that excute
+
+* 7-multiple permission : a script that renders multple permission  
