@@ -29,4 +29,5 @@ Other users: all the permissions
 * 10-Look at the mirror : A script that sets the mode of the file hello the same as olleh’s mode.
 
 * 11- :  adds execute permission to all subdirectories of the current directory
-  
+
+* 12 : creates a directory called my_dir with permissions 751 in the working directory.  
