@@ -7,3 +7,5 @@
 * 2-who am i : A script that prints the user name
 
 * 3-2-groups : A script that shows the group a user is.
+
+* 4-3-new_owner : A script that changes the owner of the file hello to the user betty
