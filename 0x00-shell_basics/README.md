@@ -38,3 +38,5 @@ And hidden files (starting with .)
 * 14-copy_html :A script that copy all the html file .
 
 * 15-Lets' Moves : A script that moves only files with uppercase letter.
+
+* 16-101-clean_emacs : A script that deletes all files in the current working directory that end with the character ~.
