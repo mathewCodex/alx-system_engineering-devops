@@ -26,3 +26,5 @@ And hidden files (starting with .)
 * 8-firstdelete :  Deleting the file  betty  in /tmp/my_first_directory
 
 * 9-firstdirdeletion : Deletedv my first directory
+
+* 10-back : a script that changes the working directory to the previous one
