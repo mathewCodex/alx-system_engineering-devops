@@ -24,4 +24,6 @@ Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
 
-* 9-John Doe : A script that set the mode tyo hello.  
+* 9-John Doe : A script that set the mode tyo hello.
+
+* 10-Look at the mirror : A script that sets the mode of the file hello the same as olleh’s mode.  
