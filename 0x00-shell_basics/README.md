@@ -33,3 +33,4 @@ And hidden files (starting with .)
 
 * 12-file_type : A script that print the type of a file name iamafile
 
+* 13-symbolic-link : This script create a symbolic link to th /bin/ls named __ls__ .
