@@ -14,4 +14,6 @@
 
 * 6-5-execute : A file that excute
 
-* 7-multiple permission : a script that renders multple permission  
+* 7-multiple permission : a script that renders multple permission
+
+* every-body : A script that adds execution permission to the owner, the group owner and the other users  
