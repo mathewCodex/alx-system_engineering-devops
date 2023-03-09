@@ -30,4 +30,7 @@ Other users: all the permissions
 
 * 11- :  adds execute permission to all subdirectories of the current directory
 
-* 12 : creates a directory called my_dir with permissions 751 in the working directory.  
+* 12 : creates a directory called my_dir with permissions 751 in the working directory.
+
+* 13 : Write a script that changes the group owner to school for the file hello.
+  
