@@ -34,4 +34,9 @@ Other users: all the permissions
 
 * 13 : Write a script that changes the group owner to school for the file hello.
 
-* 14 : changes the owner to vincent and the group owner to staff   
+* 14 : changes the owner to vincent and the group owner to staff
+
+* 15 101-symbolic_link_permissions  : a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+
+The file _hello is in the working directory
+The file _hello is a symbolic link.   
