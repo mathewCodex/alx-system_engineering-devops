@@ -25,3 +25,5 @@
 * 10 - Delete a script that have a particular extension .
 
 * 11 - Dont just count your dir, make it count!.
+
+* 12- 10 Newest files sorted by time.
