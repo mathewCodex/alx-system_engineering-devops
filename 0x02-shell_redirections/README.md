@@ -21,3 +21,7 @@
 * 8- A script that writes into the files and if file does not exist it create one.
 
 * 9- A script that duplicate the last line of a file.
+
+* 10 - Delete a script that have a particular extension .
+
+
