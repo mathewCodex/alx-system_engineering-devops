@@ -31,3 +31,5 @@
 * 13- A script that sorta unique files .
 
 * 14-Displaying lines that contain the pattern "rrot" from a file.
+
+* 15-A script Display the number of lines that contain the pattern “bin” in the file .
