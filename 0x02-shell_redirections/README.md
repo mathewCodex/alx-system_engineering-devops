@@ -40,4 +40,6 @@
 
 * 18 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
-* 19 Replace charaters
+* 19 Replace charaters.
+
+* 20- replace certain text
