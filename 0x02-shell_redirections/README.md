@@ -29,3 +29,5 @@
 * 12- 10 Newest files sorted by time.
 
 * 13- A script that sorta unique files .
+
+* 14-Displaying lines that contain the pattern "rrot" from a file.
