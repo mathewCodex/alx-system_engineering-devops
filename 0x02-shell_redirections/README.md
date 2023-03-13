@@ -39,3 +39,5 @@
 * 17- A script a file that do not contain bin.
 
 * 18 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+* 19 Replace charaters
