@@ -48,3 +48,4 @@
 
 * 22- A script cript that displays all users and their home directories, sorted by users.
 
+* 23 A script  command that finds all empty files and directories in the current directory and all sub-directories
