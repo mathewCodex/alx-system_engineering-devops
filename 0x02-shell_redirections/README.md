@@ -43,3 +43,5 @@
 * 19 Replace charaters.
 
 * 20- replace certain text
+
+* 21- Reverse its input
