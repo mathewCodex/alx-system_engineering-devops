@@ -11,3 +11,5 @@
 * A script that display the content of two files.
 
 * Display the last lines of file.
+
+* DIsplay the first 10 lines .
