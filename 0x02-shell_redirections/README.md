@@ -51,3 +51,5 @@
 * 23 A script  command that finds all empty files and directories in the current directory and all sub-directories.
 
 * 24 A a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+* 25 A script commands that decodes acrostic that use the first letter of each lines
