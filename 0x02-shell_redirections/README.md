@@ -15,3 +15,5 @@
 * DIsplay the first 10 lines .
 
 * 6- A script that displays the third of a file.
+
+* 7- A shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:).
