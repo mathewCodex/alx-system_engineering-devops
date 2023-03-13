@@ -45,3 +45,6 @@
 * 20- replace certain text
 
 * 21- Reverse its input
+
+* 22- A script cript that displays all users and their home directories, sorted by users.
+
