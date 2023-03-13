@@ -13,3 +13,5 @@
 * Display the last lines of file.
 
 * DIsplay the first 10 lines .
+
+* 6- A script that displays the third of a file.
