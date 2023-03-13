@@ -19,3 +19,5 @@
 * 7- A shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:).
 
 * 8- A script that writes into the files and if file does not exist it create one.
+
+* 9- A script that duplicate the last line of a file.
