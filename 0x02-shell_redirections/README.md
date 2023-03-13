@@ -37,3 +37,5 @@
 * 16- A script that Display lines containing the pattern “root” and 3 lines after them in the file.
 
 * 17- A script a file that do not contain bin.
+
+* 18 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
