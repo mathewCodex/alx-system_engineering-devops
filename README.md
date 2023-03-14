@@ -9,5 +9,5 @@
 * A README.md file, at the root of the folder of this project, describing what each script is doing
 * You are not allowed to use backticks, &&, || or ;
 * All your scripts must be executable.
-* To make your file executable, use the chmod command: chmod u+x file.
+D
 * Later, we’ll learn more about how to utilize this command.	
