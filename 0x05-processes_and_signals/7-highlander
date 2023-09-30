@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#display "To infinity n beyond" with a sleep 2
+# shows "I am invisible!!!" in between each iterate
+
+while true
+do
+  echo "To  infinity and beyond"
+  sleep 2
+  trap 'echo "I am invisible!!!"' SIGTERM
+done
