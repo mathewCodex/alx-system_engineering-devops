@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# shows if own PID
+echo $$
