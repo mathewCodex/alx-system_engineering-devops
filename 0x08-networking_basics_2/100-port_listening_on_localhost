@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# port on 98
+
+nc -l localhosy 98

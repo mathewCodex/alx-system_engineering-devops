@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Display all active addr below
+
+ifconfig | grep -Eo "input (addr:)?([0-9]*\.){3}[0-9]*" | cut -b 11-
